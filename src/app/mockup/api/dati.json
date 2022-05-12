@@ -1,0 +1,19 @@
+{
+  "dati":{
+    "attore_1":{
+      "nome":"Nome_1",
+      "cognome":"Cognome_1",
+      "count":100
+    },
+    "attore_2":{
+      "nome":"Nome_2",
+      "cognome":"Cognome_2",
+      "count":100
+    },
+    "attore_3":{
+      "nome":"Nome_3",
+      "cognome":"Cognome_3",
+      "count":100
+    }
+  }
+}
